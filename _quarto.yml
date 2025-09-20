@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "Patricia Schenfeld"
+  back-to-top-navigation: true
+  navbar:
+    left:
+      - href: index.html
+        text: About
+      - text: "Projects"
+        menu: 
+          - text: "Exploring Reddit Restaurant Data - Fall 2024"
+            href: https://gu-dsan6000.github.io/fall-2024-project-team-02-1/
+            target: _blank          
+          - text: "Climate Change and Vegetation Cover - Spring 2024"
+            href: https://pschenfeld.github.io/scholarship-project/
+            target: _blank  
+          - text: "Ensuring Artist Equity in Digital Music Distribution - Spring 2024"
+            href: https://pschenfeld.github.io/data-ethics/
+            target: _blank        
+          - text: "Predictive Factors to Movie Success - Spring 2024"
+            href: https://pschenfeld.github.io/movie-success/
+            target: _blank
+          - text: "Visualizing Car Thefts in Washington DC - Spring 2024"
+            href: https://mfgeary.github.io/dsan5200-project/
+            target: _blank
+          - text: "EDM Subgenre Classification - Fall 2023"
+            href: https://patricia-schenfeld.georgetown.domains/dsan-website/5000-website/_site/
+            target: _blank
+          - text: "Statistical Analysis of Spotify Genres - Fall 2023"
+            href: https://pschenfeld.github.io/spotify-statistical-analysis/
+            target: _blank
+
+
+format:
+  html:
+    theme: zephyr
+    toc: true
+    page-layout: full
+    link-external-newwindow: true
+
+
+
+
